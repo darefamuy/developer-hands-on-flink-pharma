@@ -1,5 +1,5 @@
 -- =============================================================================
--- MODULE 08: Hands-On Exercises
+-- Hands-On Exercises
 -- HCI Pharma — Apache Flink on Confluent Cloud Training
 --
 -- INSTRUCTIONS:
@@ -7,7 +7,7 @@
 --   Full solutions are in solutions/solutions.sql
 --
 -- BEFORE YOU START:
---   Ensure you have run 00-setup/00-setup.sql and that data is flowing
+--   Ensure that data is flowing
 --   into the three source tables (products_t, prices_t, alerts_t).
 -- =============================================================================
 
